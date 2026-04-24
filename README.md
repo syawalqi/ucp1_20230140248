@@ -55,3 +55,16 @@ Gate::define('manage-category', function (User $user) {
 - **Form Produk**: Menambahkan field dropdown "Category" pada form tambah dan edit produk.
 - **Daftar Produk**: Menampilkan kolom "Category" pada tabel produk.
 - **Halaman Kategori**: Membuat halaman index, tambah, dan edit kategori dengan desain yang konsisten (Tailwind CSS).
+
+
+
+
+
+
+
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/375a5fd5-9235-4ce3-9b7a-16a61073b93a" />
+
+
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/10508673-1bf4-4248-a74b-c1fc83e7f463" />
+
+
